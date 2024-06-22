@@ -5,6 +5,7 @@ Aplikacja konsolowa do przeprowadzania quizów z informatyki, zaprojektowana w C
 Umożliwia użytkownikom rozwiązywanie quizów, rejestrację i logowanie, a wyniki są zapisywane w bazie danych PostgreSQL.
 
 ## Struktura Projektu
+```
 QQuizApp/
 │
 ├── Program.cs # Punkt wejścia aplikacji, zarządza uruchomieniem.
@@ -16,6 +17,7 @@ QQuizApp/
 │ ├── Question.cs # Definicje modelu pytania.
 │
 └── README.md # Dokumentacja projektu.
+```
 
 ## Inicjalizacja Bazy Danych
 Aby zainicjalizować bazę danych, wykonaj następującą komendę:
