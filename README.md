@@ -8,15 +8,16 @@ Umożliwia użytkownikom rozwiązywanie quizów, rejestrację i logowanie, a wyn
 ```
 QuizApp/
 │
-├── Program.cs # Punkt wejścia aplikacji, zarządza uruchomieniem.
-├── QuizManager.cs # Zarządza logiką quizów.
-├── DatabaseManager.cs # Obsługuje wszystkie operacje związane z bazą danych.
-├── UserInterface.cs # Zarządza interfejs użytkownika i interakcją.
+├── Program.cs
+├── QuizManager.cs
+├── DatabaseManager.cs
+├── UserInterface.cs
 ├── Models/
-│ ├── User.cs # Definicje modelu użytkownika.
-│ ├── Question.cs # Definicje modelu pytania.
+│ ├── User.cs
+│ ├── Question.cs
 │
-└── README.md # Dokumentacja projektu.
+├── UML_Quizy.png
+└── README.md
 ```
 
 ## Inicjalizacja Bazy Danych
