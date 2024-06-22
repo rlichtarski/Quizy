@@ -18,3 +18,4 @@
 /Users/sqsmacbook/Documents/studia/quizy/quizy/bin/Debug/net8.0/Npgsql.dll
 /Users/sqsmacbook/Documents/studia/quizy/quizy/obj/Debug/net8.0/quizy.csproj.AssemblyReference.cache
 /Users/sqsmacbook/Documents/studia/quizy/quizy/obj/Debug/net8.0/quizy.csproj.CopyComplete
+/Users/sqsmacbook/Documents/studia/quizy/quizy/obj/Debug/net8.0/quizy.sourcelink.json
