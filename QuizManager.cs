@@ -28,20 +28,28 @@ namespace quizy
                 }
                 Console.Write("Twój wybór: ");
                 var userAnswer = Console.ReadLine();
-                if (userAnswer == "q") {
-                    UserInterface.DisplayMainMenu();
-                }
-                if (question.Answers[int.Parse(userAnswer) - 1] == question.Correct_Answer)
+                if (userAnswer != null || userAnswer != "" )
                 {
-                    correctAnswers++;
-                }
-                else
-                {
-                    wrongAnswers++;
-                    Console.WriteLine($"Prawidłowa odpowiedź to: {question.Correct_Answer}");
+                    if (int.Parse(userAnswer) >= 1 && int.Parse(userAnswer) <= 4)
+                    {
+                        if (userAnswer == "q") {
+                            UserInterface.DisplayMainMenu();
+                            return;
+                        }
+                        if (question.Answers[int.Parse(userAnswer) - 1] == question.Correct_Answer)
+                        {
+                            correctAnswers++;
+                        }
+                        else
+                        {
+                            wrongAnswers++;
+                            Console.WriteLine($"Prawidłowa odpowiedź to: {question.Correct_Answer}");
+                        }
+                    } else {
+                        Console.WriteLine("Nie ma takiej odpowiedzi!");
+                    }
                 }
             }
-
             Console.WriteLine($"Quiz zakończony! Poprawne odpowiedzi: {correctAnswers}, Błędne odpowiedzi: {wrongAnswers}");
             DatabaseManager.SaveQuizResult(userId, correctAnswers, wrongAnswers);
         }

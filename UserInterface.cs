@@ -56,14 +56,20 @@ namespace quizy
             var email = Console.ReadLine();
             Console.Write("Podaj hasło: ");
             var password = Console.ReadLine();
-            if (DatabaseManager.RegisterUser(email, password))
-            {
-                Console.WriteLine("Zarejestrowano!");
+            Console.Write("Powtórz hasło: ");
+            var passwordConfirm = Console.ReadLine();
+            if (password == passwordConfirm) {
+                if (DatabaseManager.RegisterUser(email, password))
+                {
+                    Console.WriteLine("Zarejestrowano!");
+                }
+                else
+                {
+                    Console.WriteLine("Nie udało się zarejestrować. Email moze być juz zajęty.");
+                }
+                return;
             }
-            else
-            {
-                Console.WriteLine("Nie udało się zarejestrować. Email moze być juz zajęty.");
-            }
+            Console.WriteLine("Hasła się nie zgadzają!");
         }
 
         private static void Login()
