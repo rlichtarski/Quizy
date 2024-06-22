@@ -6,7 +6,7 @@ Umożliwia użytkownikom rozwiązywanie quizów, rejestrację i logowanie, a wyn
 
 ## Struktura Projektu
 ```
-QQuizApp/
+QuizApp/
 │
 ├── Program.cs # Punkt wejścia aplikacji, zarządza uruchomieniem.
 ├── QuizManager.cs # Zarządza logiką quizów.
