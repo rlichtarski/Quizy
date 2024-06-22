@@ -1,0 +1,1102 @@
+[
+    {
+        "id": 1,
+        "question": "Co to jest polimorfizm w programowaniu obiektowym?",
+        "answers": [
+            "Mechanizm, który pozwala obiektom różnych klas na reagowanie na te same polecenia w różny sposób",
+            "Mechanizm zapewniający, że program będzie wykonywał się zawsze w tym samym czasie",
+            "Sposób formatowania tekstu w kodzie",
+            "Rodzaj pętli w języku programowania"
+        ],
+        "correct_answer": "Mechanizm, który pozwala obiektom różnych klas na reagowanie na te same polecenia w różny sposób"
+    },
+    {
+        "id": 2,
+        "question": "Jaki protokół jest używany do przesyłania stron WWW?",
+        "answers": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "TCP"
+        ],
+        "correct_answer": "HTTP"
+    },
+    {
+        "id": 3,
+        "question": "Co oznacza skrót 'SQL'?",
+        "answers": [
+            "Stylish Question Language",
+            "Simple Query Language",
+            "Structured Query Language",
+            "Statement Question Language"
+        ],
+        "correct_answer": "Structured Query Language"
+    },
+    {
+        "id": 4,
+        "question": "Co to jest dziedziczenie w kontekście programowania obiektowego?",
+        "answers": [
+            "Zdolność klasy do tworzenia nowych klas na podstawie istniejących",
+            "Proces, w którym obiekt przyjmuje właściwości innego obiektu",
+            "Mechanizm dzielenia się metodami między klasami",
+            "Koncepcja używania funkcji w programowaniu proceduralnym"
+        ],
+        "correct_answer": "Zdolność klasy do tworzenia nowych klas na podstawie istniejących"
+    },
+    {
+        "id": 5,
+        "question": "Jaki jest główny cel używania wzorców projektowych?",
+        "answers": [
+            "Przyspieszenie kompilacji programu",
+            "Zwiększenie wydajności aplikacji",
+            "Rozwiązywanie typowych problemów projektowych w bardziej zarządzalny sposób",
+            "Zmniejszenie ilości używanego RAM"
+        ],
+        "correct_answer": "Rozwiązywanie typowych problemów projektowych w bardziej zarządzalny sposób"
+    },
+    {
+        "id": 6,
+        "question": "Który język programowania jest najczęściej używany do tworzenia stron internetowych?",
+        "answers": [
+            "Python",
+            "Java",
+            "C#",
+            "JavaScript"
+        ],
+        "correct_answer": "JavaScript"
+    },
+    {
+        "id": 7,
+        "question": "Co to jest rekurencja?",
+        "answers": [
+            "Typ danych",
+            "Funkcja wywołująca samą siebie",
+            "Błąd w aplikacji",
+            "Metoda szyfrowania danych"
+        ],
+        "correct_answer": "Funkcja wywołująca samą siebie"
+    },
+    {
+        "id": 8,
+        "question": "Który z poniższych nie jest językiem programowania?",
+        "answers": [
+            "Python",
+            "Ruby",
+            "Emacs",
+            "Go"
+        ],
+        "correct_answer": "Emacs"
+    },
+    {
+        "id": 9,
+        "question": "Jaka jest główna funkcja Garbage Collector w językach programowania takich jak Java?",
+        "answers": [
+            "Zwiększanie wydajności programu",
+            "Automatyczne zarządzanie pamięcią poprzez usuwanie obiektów, które nie są już używane",
+            "Ochrona przed wirusami",
+            "Kompilacja kodu źródłowego"
+        ],
+        "correct_answer": "Automatyczne zarządzanie pamięcią poprzez usuwanie obiektów, które nie są już używane"
+    },
+    {
+        "id": 10,
+        "question": "Jakie są dwa główne typy danych w JSON?",
+        "answers": [
+            "Get i Set",
+            "Public i Private",
+            "Klucz i wartość",
+            "Class i Object"
+        ],
+        "correct_answer": "Klucz i wartość"
+    },
+    {
+        "id": 11,
+        "question": "Jakie słowo kluczowe w języku C++ pozwala na zapobieganie zmianom w obiektach?",
+        "answers": [
+            "constant",
+            "mutable",
+            "volatile",
+            "static"
+        ],
+        "correct_answer": "constant"
+    },
+    {
+        "id": 12,
+        "question": "W którym roku został stworzony język programowania Python?",
+        "answers": [
+            "1991",
+            "1989",
+            "1995",
+            "2000"
+        ],
+        "correct_answer": "1991"
+    },
+    {
+        "id": 13,
+        "question": "Co jest głównym celem stosowania frameworków w rozwoju oprogramowania?",
+        "answers": [
+            "Zwiększenie bezpieczeństwa aplikacji",
+            "Standardyzacja procesów programowania",
+            "Automatyzacja procesu kompilacji",
+            "Wprowadzenie ograniczeń w kodzie"
+        ],
+        "correct_answer": "Standardyzacja procesów programowania"
+    },
+    {
+        "id": 14,
+        "question": "Co to jest kapsułkowanie w programowaniu obiektowym?",
+        "answers": [
+            "Rozdzielenie interfejsu od implementacji",
+            "Łączenie danych i metod, które manipulują tymi danymi, w jedną jednostkę",
+            "Tworzenie wielu instancji klasy",
+            "Heretyczne zarządzanie pamięcią"
+        ],
+        "correct_answer": "Łączenie danych i metod, które manipulują tymi danymi, w jedną jednostkę"
+    },
+    {
+        "id": 15,
+        "question": "Jaki jest domyślny port dla protokołu HTTPS?",
+        "answers": [
+            "80",
+            "8080",
+            "443",
+            "23"
+        ],
+        "correct_answer": "443"
+    },
+    {
+        "id": 16,
+        "question": "Które z poniższych jest prawdziwym przykładem typu danych 'enum' w języku programowania?",
+        "answers": [
+            "List",
+            "Set",
+            "Map",
+            "Status"
+        ],
+        "correct_answer": "Status"
+    },
+    {
+        "id": 17,
+        "question": "Co to jest 'callback' w programowaniu?",
+        "answers": [
+            "Typ błędu",
+            "Funkcja przekazywana do innej funkcji jako argument",
+            "Mechanizm dziedziczenia w JavaScript",
+            "Żądanie HTTP"
+        ],
+        "correct_answer": "Funkcja przekazywana do innej funkcji jako argument"
+    },
+    {
+        "id": 18,
+        "question": "Która metoda HTTP jest używana do aktualizacji zasobów na serwerze?",
+        "answers": [
+            "GET",
+            "POST",
+            "DELETE",
+            "PUT"
+        ],
+        "correct_answer": "PUT"
+    },
+    {
+        "id": 19,
+        "question": "Która technologia jest stosowana do budowania interaktywnych interfejsów użytkownika?",
+        "answers": [
+            "HTML",
+            "CSS",
+            "React",
+            "SQL"
+        ],
+        "correct_answer": "React"
+    },
+    {
+        "id": 20,
+        "question": "Jaki jest główny cel stosowania wzorca MVC?",
+        "answers": [
+            "Podział odpowiedzialności",
+            "Usprawnienie przepływu danych",
+            "Zwiększenie bezpieczeństwa aplikacji",
+            "Przyspieszenie czasu ładowania strony"
+        ],
+        "correct_answer": "Podział odpowiedzialności"
+    },
+    {
+        "id": 21,
+        "question": "Co to jest 'lambda' w programowaniu?",
+        "answers": [
+            "Nowy framework",
+            "Anonimowa funkcja",
+            "Typ zmiennej",
+            "Schemat bazy danych"
+        ],
+        "correct_answer": "Anonimowa funkcja"
+    },
+    {
+        "id": 22,
+        "question": "Jaka jest podstawowa jednostka przechowywania danych w MongoDB?",
+        "answers": [
+            "Dokument",
+            "Tabela",
+            "Obiekt",
+            "Wiersz"
+        ],
+        "correct_answer": "Dokument"
+    },
+    {
+        "id": 23,
+        "question": "Co to jest 'promises' w JavaScript?",
+        "answers": [
+            "Typ danych",
+            "Biblioteka do zarządzania stanem",
+            "Obiekt reprezentujący ewentualne zakończenie lub niepowodzenie operacji asynchronicznej",
+            "Funkcja zwrotna"
+        ],
+        "correct_answer": "Obiekt reprezentujący ewentualne zakończenie lub niepowodzenie operacji asynchronicznej"
+    },
+    {
+        "id": 24,
+        "question": "Jakie słowo kluczowe w Pythonie tworzy anonimowe funkcje?",
+        "answers": [
+            "func",
+            "lambda",
+            "anon",
+            "async"
+        ],
+        "correct_answer": "lambda"
+    },
+    {
+        "id": 25,
+        "question": "W jakim języku programowania pierwotnie został napisany system operacyjny Linux?",
+        "answers": [
+            "C",
+            "C++",
+            "Python",
+            "Bash"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "id": 26,
+        "question": "Co to jest 'fragment' w React?",
+        "answers": [
+            "Biblioteka do zarządzania stanem",
+            "Komponent bez dodatkowego węzła DOM",
+            "Nowa wersja JSX",
+            "Funkcja renderująca strony"
+        ],
+        "correct_answer": "Komponent bez dodatkowego węzła DOM"
+    },
+    {
+        "id": 27,
+        "question": "W którym roku został wydany C#?",
+        "answers": [
+            "1998",
+            "2000",
+            "2002",
+            "1995"
+        ],
+        "correct_answer": "2000"
+    },
+    {
+        "id": 28,
+        "question": "Jaki wzorzec projektowy zapewnia tylko jedną instancję klasy?",
+        "answers": [
+            "Singleton",
+            "Builder",
+            "Prototype",
+            "Factory"
+        ],
+        "correct_answer": "Singleton"
+    },
+    {
+        "id": 29,
+        "question": "Co to jest 'tuple' w Pythonie?",
+        "answers": [
+            "Niezmienialny ciąg elementów",
+            "Typ danych do przechowywania wartości liczbowych",
+            "Biblioteka do analizy danych",
+            "Sekwencja operacji"
+        ],
+        "correct_answer": "Niezmienialny ciąg elementów"
+    },
+    {
+        "id": 30,
+        "question": "Która z poniższych nie jest prawdziwą bazą danych NoSQL?",
+        "answers": [
+            "Oracle",
+            "MongoDB",
+            "Cassandra",
+            "Redis"
+        ],
+        "correct_answer": "Oracle"
+    },
+    {
+        "id": 31,
+        "question": "Co to jest 'Git'?",
+        "answers": [
+            "Język programowania",
+            "Narzędzie do śledzenia błędów",
+            "System kontroli wersji",
+            "Framework do testowania aplikacji"
+        ],
+        "correct_answer": "System kontroli wersji"
+    },
+    {
+        "id": 32,
+        "question": "Która metoda HTTP jest używana do pobierania danych z serwera?",
+        "answers": [
+            "POST",
+            "GET",
+            "PUT",
+            "PATCH"
+        ],
+        "correct_answer": "GET"
+    },
+    {
+        "id": 33,
+        "question": "Co to jest 'webpack'?",
+        "answers": [
+            "Język programowania",
+            "Biblioteka JavaScript",
+            "Narzędzie do pakowania modułów JavaScript",
+            "Framework CSS"
+        ],
+        "correct_answer": "Narzędzie do pakowania modułów JavaScript"
+    },
+    {
+        "id": 34,
+        "question": "Jaki język programowania jest znany z używania 'wcięć' jako sposób na definiowanie bloków kodu?",
+        "answers": [
+            "Java",
+            "C#",
+            "Python",
+            "JavaScript"
+        ],
+        "correct_answer": "Python"
+    },
+    {
+        "id": 35,
+        "question": "Który z poniższych języków nie jest zorientowany obiektowo?",
+        "answers": [
+            "Python",
+            "Ruby",
+            "C",
+            "Java"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "id": 36,
+        "question": "Co oznacza termin 'API'?",
+        "answers": [
+            "Advanced Programming Interface",
+            "Application Programming Interface",
+            "Application Provisioning Instrumentation",
+            "Automated Process Integration"
+        ],
+        "correct_answer": "Application Programming Interface"
+    },
+    {
+        "id": 37,
+        "question": "Które narzędzie jest używane do automatyzacji skryptów buildowych w projektach Java?",
+        "answers": [
+            "Jenkins",
+            "Maven",
+            "Docker",
+            "Kubernetes"
+        ],
+        "correct_answer": "Maven"
+    },
+    {
+        "id": 38,
+        "question": "Jaka biblioteka JavaScript jest najczęściej używana do tworzenia aplikacji jednostronnicowych?",
+        "answers": [
+            "jQuery",
+            "React",
+            "Angular",
+            "Vue.js"
+        ],
+        "correct_answer": "React"
+    },
+    {
+        "id": 39,
+        "question": "Jakie jest podstawowe zastosowanie języka SQL?",
+        "answers": [
+            "Tworzenie interaktywnych stron internetowych",
+            "Zarządzanie bazami danych",
+            "Programowanie aplikacji mobilnych",
+            "Tworzenie gier komputerowych"
+        ],
+        "correct_answer": "Zarządzanie bazami danych"
+    },
+    {
+        "id": 40,
+        "question": "Co to jest 'Xamarin'?",
+        "answers": [
+            "Framework do testowania",
+            "Narzędzie do kontroli wersji",
+            "Framework do tworzenia aplikacji mobilnych",
+            "Język skryptowy"
+        ],
+        "correct_answer": "Framework do tworzenia aplikacji mobilnych"
+    },
+    {
+        "id": 41,
+        "question": "Co to jest 'async/await' w JavaScript?",
+        "answers": [
+            "Operatory do zarządzania pamięcią",
+            "Funkcje do obsługi błędów",
+            "Słowa kluczowe do obsługi asynchroniczności",
+            "Metody do szyfrowania danych"
+        ],
+        "correct_answer": "Słowa kluczowe do obsługi asynchroniczności"
+    },
+    {
+        "id": 42,
+        "question": "Jaka jest podstawowa funkcja metody 'map' w językach programowania?",
+        "answers": [
+            "Usuwanie elementów z tablicy",
+            "Kopiowanie obiektów",
+            "Transformacja elementów kolekcji",
+            "Synchronizacja danych"
+        ],
+        "correct_answer": "Transformacja elementów kolekcji"
+    },
+    {
+        "id": 43,
+        "question": "Co to jest 'SOLID' w kontekście programowania obiektowego?",
+        "answers": [
+            "Protokół sieciowy",
+            "Zestaw zasad projektowania oprogramowania",
+            "Typ algorytmu szyfrowania",
+            "Baza danych NoSQL"
+        ],
+        "correct_answer": "Zestaw zasad projektowania oprogramowania"
+    },
+    {
+        "id": 44,
+        "question": "Która biblioteka Pythona jest używana do analizy danych?",
+        "answers": [
+            "Flask",
+            "Django",
+            "Pygame",
+            "Pandas"
+        ],
+        "correct_answer": "Pandas"
+    },
+    {
+        "id": 45,
+        "question": "Jak nazywa się proces tworzenia aplikacji dla różnych platform mobilnych jednocześnie?",
+        "answers": [
+            "Cross-posting",
+            "Cross-compiling",
+            "Cross-platform development",
+            "Cross-scripting"
+        ],
+        "correct_answer": "Cross-platform development"
+    },
+    {
+        "id": 46,
+        "question": "Co to jest 'Bootstrap'?",
+        "answers": [
+            "Język programowania",
+            "Narzędzie do zarządzania projektami",
+            "Framework frontendowy",
+            "Serwer aplikacji"
+        ],
+        "correct_answer": "Framework frontendowy"
+    },
+    {
+        "id": 47,
+        "question": "Które z poniższych jest cechą 'immutable' obiektów?",
+        "answers": [
+            "Mogą być modyfikowane",
+            "Nie mogą być zmieniane po utworzeniu",
+            "Mogą być kopiowane",
+            "Mogą przechowywać dane tymczasowo"
+        ],
+        "correct_answer": "Nie mogą być zmieniane po utworzeniu"
+    },
+    {
+        "id": 48,
+        "question": "Co to jest 'Kubernetes'?",
+        "answers": [
+            "Język skryptowy",
+            "System operacyjny",
+            "Platforma do konteneryzacji aplikacji",
+            "Narzędzie do monitorowania sieci"
+        ],
+        "correct_answer": "Platforma do konteneryzacji aplikacji"
+    },
+    {
+        "id": 49,
+        "question": "Który język programowania jest najbardziej znany z używania maszyny wirtualnej do wykonania?",
+        "answers": [
+            "Python",
+            "JavaScript",
+            "C#",
+            "Java"
+        ],
+        "correct_answer": "Java"
+    },
+    {
+        "id": 50,
+        "question": "Co oznacza skrót 'CSS'?",
+        "answers": [
+            "Creative Style Sheets",
+            "Cascading Style Sheets",
+            "Computer Style Sheets",
+            "Colorful Style Sheets"
+        ],
+        "correct_answer": "Cascading Style Sheets"
+    },
+    {
+        "id": 51,
+        "question": "Co to jest 'TypeScript'?",
+        "answers": [
+            "Superset JavaScriptu",
+            "Biblioteka do zarządzania bazą danych",
+            "Framework do tworzenia aplikacji mobilnych",
+            "Język programowania do tworzenia gier"
+        ],
+        "correct_answer": "Superset JavaScriptu"
+    },
+    {
+        "id": 52,
+        "question": "Jaki wzorzec projektowy jest najlepiej stosowany do zarządzania złożonymi obiektami?",
+        "answers": [
+            "Factory Method",
+            "Abstract Factory",
+            "Builder",
+            "Prototype"
+        ],
+        "correct_answer": "Builder"
+    },
+    {
+        "id": 53,
+        "question": "Jakie jest główne zastosowanie WebSocket?",
+        "answers": [
+            "Szyfrowanie danych",
+            "Interaktywna komunikacja w czasie rzeczywistym między klientem a serwerem",
+            "Automatyczne testowanie aplikacji",
+            "Zarządzanie bazą danych"
+        ],
+        "correct_answer": "Interaktywna komunikacja w czasie rzeczywistym między klientem a serwerem"
+    },
+    {
+        "id": 54,
+        "question": "Która funkcja JavaScript pozwala na opóźnienie wykonania kodu?",
+        "answers": [
+            "setTimeout",
+            "timeDelay",
+            "setInterval",
+            "pauseExecution"
+        ],
+        "correct_answer": "setTimeout"
+    },
+    {
+        "id": 55,
+        "question": "Jaki termin jest używany do opisania testowania części kodu niezależnie od reszty systemu?",
+        "answers": [
+            "Integration Testing",
+            "System Testing",
+            "Unit Testing",
+            "Acceptance Testing"
+        ],
+        "correct_answer": "Unit Testing"
+    },
+    {
+        "id": 56,
+        "question": "Co to jest 'Docker'?",
+        "answers": [
+            "Język programowania",
+            "System kontroli wersji",
+            "Platforma do zarządzania kontenerami",
+            "Framework frontendowy"
+        ],
+        "correct_answer": "Platforma do zarządzania kontenerami"
+    },
+    {
+        "id": 57,
+        "question": "Która z poniższych technologii jest używana do stylizowania stron internetowych?",
+        "answers": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "SQL"
+        ],
+        "correct_answer": "CSS"
+    },
+    {
+        "id": 58,
+        "question": "Co to jest 'REST' w kontekście web developmentu?",
+        "answers": [
+            "Typ bazy danych",
+            "Styl architektoniczny",
+            "Framework frontendowy",
+            "Metoda testowania"
+        ],
+        "correct_answer": "Styl architektoniczny"
+    },
+    {
+        "id": 59,
+        "question": "Które z poniższych jest narzędziem do zarządzania pakietami w Node.js?",
+        "answers": [
+            "npm",
+            "pip",
+            "composer",
+            "gem"
+        ],
+        "correct_answer": "npm"
+    },
+    {
+        "id": 60,
+        "question": "Co oznacza skrót 'OOP'?",
+        "answers": [
+            "Object-Oriented Programming",
+            "Operational Output Processing",
+            "Optimal Object Programming",
+            "Object-Oriented Procedure"
+        ],
+        "correct_answer": "Object-Oriented Programming"
+    },
+    {
+        "id": 61,
+        "question": "Jaki jest cel stosowania wzorca projektowego 'Observer'?",
+        "answers": [
+            "Zarządzanie stanem aplikacji",
+            "Automatyzacja testów",
+            "Umożliwienie obiektom powiadamiania innych obiektów o zmianach stanu",
+            "Ułatwienie zarządzania pamięcią"
+        ],
+        "correct_answer": "Umożliwienie obiektom powiadamiania innych obiektów o zmianach stanu"
+    },
+    {
+        "id": 62,
+        "question": "Co to jest 'ORM'?",
+        "answers": [
+            "Narzędzie do zarządzania kontenerami",
+            "System kontroli wersji",
+            "Biblioteka do mapowania obiektowo-relacyjnego",
+            "Framework frontendowy"
+        ],
+        "correct_answer": "Biblioteka do mapowania obiektowo-relacyjnego"
+    },
+    {
+        "id": 63,
+        "question": "Który z poniższych jest przykładem języka programowania skryptowego?",
+        "answers": [
+            "C++",
+            "Java",
+            "Python",
+            "Haskell"
+        ],
+        "correct_answer": "Python"
+    },
+    {
+        "id": 64,
+        "question": "Co to jest 'CI/CD'?",
+        "answers": [
+            "Zestaw zasad do pisania dokumentacji",
+            "Protokół sieciowy",
+            "Praktyka w DevOps obejmująca ciągłą integrację i ciągłe dostarczanie",
+            "Typ bazy danych"
+        ],
+        "correct_answer": "Praktyka w DevOps obejmująca ciągłą integrację i ciągłe dostarczanie"
+    },
+    {
+        "id": 65,
+        "question": "Jaki jest główny cel stosowania 'JWT' (JSON Web Token)?",
+        "answers": [
+            "Przechowywanie danych w bazie",
+            "Autoryzacja i uwierzytelnianie użytkowników",
+            "Szyfrowanie danych",
+            "Tworzenie interfejsów użytkownika"
+        ],
+        "correct_answer": "Autoryzacja i uwierzytelnianie użytkowników"
+    },
+    {
+        "id": 66,
+        "question": "Która biblioteka jest używana do testowania w JavaScript?",
+        "answers": [
+            "React",
+            "Vue",
+            "Jest",
+            "Sass"
+        ],
+        "correct_answer": "Jest"
+    },
+    {
+        "id": 67,
+        "question": "Co to jest 'AJAX'?",
+        "answers": [
+            "Technika do tworzenia asynchronicznych aplikacji webowych",
+            "Typ bazy danych",
+            "Protokół komunikacyjny",
+            "Framework CSS"
+        ],
+        "correct_answer": "Technika do tworzenia asynchronicznych aplikacji webowych"
+    },
+    {
+        "id": 68,
+        "question": "Który z poniższych jest językiem programowania używanym głównie do analizy danych?",
+        "answers": [
+            "Java",
+            "R",
+            "PHP",
+            "Swift"
+        ],
+        "correct_answer": "R"
+    },
+    {
+        "id": 69,
+        "question": "Co oznacza skrót 'TDD'?",
+        "answers": [
+            "Test-Driven Development",
+            "Technical Data Design",
+            "Terminal Data Dispatch",
+            "Transaction Data Deployment"
+        ],
+        "correct_answer": "Test-Driven Development"
+    },
+    {
+        "id": 70,
+        "question": "Jaka jest podstawowa funkcja 'Garbage Collector' w językach programowania takich jak C# i Java?",
+        "answers": [
+            "Optymalizacja wydajności aplikacji",
+            "Automatyczne zarządzanie pamięcią",
+            "Zarządzanie połączeniami sieciowymi",
+            "Kompilacja kodu źródłowego"
+        ],
+        "correct_answer": "Automatyczne zarządzanie pamięcią"
+    },
+    {
+        "id": 71,
+        "question": "Co to jest 'virtual DOM'?",
+        "answers": [
+            "Metoda przechowywania danych w chmurze",
+            "Wirtualny model reprezentujący strukturę UI",
+            "Narzędzie do debugowania kodu",
+            "Typ serwera bazodanowego"
+        ],
+        "correct_answer": "Wirtualny model reprezentujący strukturę UI"
+    },
+    {
+        "id": 72,
+        "question": "Jaka jest główna różnica między 'let' a 'const' w JavaScript?",
+        "answers": [
+            "let jest używany do deklaracji stałych wartości, a const do zmiennych",
+            "let deklaruje zmienne blokowe, a const deklaruje stałe blokowe",
+            "let jest przestarzałe, a const to nowa wersja",
+            "Nie ma żadnej różnicy"
+        ],
+        "correct_answer": "let deklaruje zmienne blokowe, a const deklaruje stałe blokowe"
+    },
+    {
+        "id": 73,
+        "question": "Które z poniższych jest językiem programowania backendowego?",
+        "answers": [
+            "HTML",
+            "CSS",
+            "Node.js",
+            "Bootstrap"
+        ],
+        "correct_answer": "Node.js"
+    },
+    {
+        "id": 74,
+        "question": "Co to jest 'closure' w JavaScript?",
+        "answers": [
+            "Typ zmiennej",
+            "Funkcja wewnętrzna, która ma dostęp do zmiennych zewnętrznej funkcji",
+            "Metoda zarządzania błędami",
+            "Sposób definiowania klas"
+        ],
+        "correct_answer": "Funkcja wewnętrzna, która ma dostęp do zmiennych zewnętrznej funkcji"
+    },
+    {
+        "id": 75,
+        "question": "Który z poniższych jest frameworkiem do tworzenia aplikacji mobilnych?",
+        "answers": [
+            "Django",
+            "React Native",
+            "Flask",
+            "Angular"
+        ],
+        "correct_answer": "React Native"
+    },
+    {
+        "id": 76,
+        "question": "Co oznacza skrót 'SQL'?",
+        "answers": [
+            "Structured Query Language",
+            "System Query Language",
+            "Structured Question Language",
+            "Systematic Query Language"
+        ],
+        "correct_answer": "Structured Query Language"
+    },
+    {
+        "id": 77,
+        "question": "Który z poniższych jest językiem programowania używanym do analizy danych?",
+        "answers": [
+            "JavaScript",
+            "Ruby",
+            "Scala",
+            "Python"
+        ],
+        "correct_answer": "Python"
+    },
+    {
+        "id": 78,
+        "question": "Co to jest 'GraphQL'?",
+        "answers": [
+            "Typ bazy danych",
+            "Framework frontendowy",
+            "Język zapytań do API",
+            "Narzędzie do testowania oprogramowania"
+        ],
+        "correct_answer": "Język zapytań do API"
+    },
+    {
+        "id": 79,
+        "question": "Co to jest 'middleware' w kontekście programowania?",
+        "answers": [
+            "Biblioteka do tworzenia interfejsów użytkownika",
+            "Warstwa oprogramowania pośrednicząca w komunikacji między różnymi aplikacjami",
+            "Framework do tworzenia aplikacji mobilnych",
+            "Narzędzie do kompilacji kodu"
+        ],
+        "correct_answer": "Warstwa oprogramowania pośrednicząca w komunikacji między różnymi aplikacjami"
+    },
+    {
+        "id": 80,
+        "question": "Jaka jest główna funkcja 'Redux' w aplikacjach React?",
+        "answers": [
+            "Stylizacja komponentów",
+            "Zarządzanie stanem aplikacji",
+            "Obsługa routingu",
+            "Tworzenie animacji"
+        ],
+        "correct_answer": "Zarządzanie stanem aplikacji"
+    },
+    {
+        "id": 81,
+        "question": "Który z poniższych to narzędzie do testowania jednostkowego w Pythonie?",
+        "answers": [
+            "Jest",
+            "Mocha",
+            "JUnit",
+            "unittest"
+        ],
+        "correct_answer": "unittest"
+    },
+    {
+        "id": 82,
+        "question": "Co to jest 'microservice' w architekturze oprogramowania?",
+        "answers": [
+            "Narzędzie do zarządzania bazą danych",
+            "Framework frontendowy",
+            "Styl architektury, gdzie aplikacja jest zbudowana z niezależnych, małych usług",
+            "Język programowania"
+        ],
+        "correct_answer": "Styl architektury, gdzie aplikacja jest zbudowana z niezależnych, małych usług"
+    },
+    {
+        "id": 83,
+        "question": "Który z poniższych jest językiem programowania funkcjonalnego?",
+        "answers": [
+            "C++",
+            "Haskell",
+            "Java",
+            "PHP"
+        ],
+        "correct_answer": "Haskell"
+    },
+    {
+        "id": 84,
+        "question": "Co to jest 'TypeScript'?",
+        "answers": [
+            "Język programowania używany do tworzenia backendu",
+            "Framework do tworzenia aplikacji mobilnych",
+            "Superset JavaScriptu z typowaniem statycznym",
+            "Biblioteka do tworzenia interfejsów użytkownika"
+        ],
+        "correct_answer": "Superset JavaScriptu z typowaniem statycznym"
+    },
+    {
+        "id": 85,
+        "question": "Który z poniższych protokołów jest używany do bezpiecznej komunikacji w sieci?",
+        "answers": [
+            "HTTP",
+            "HTTPS",
+            "FTP",
+            "SMTP"
+        ],
+        "correct_answer": "HTTPS"
+    },
+    {
+        "id": 86,
+        "question": "Co to jest 'dependency injection'?",
+        "answers": [
+            "Technika polegająca na dynamicznym ładowaniu bibliotek",
+            "Wzorzec projektowy do wstrzykiwania zależności do klasy",
+            "Metoda testowania aplikacji",
+            "Protokół komunikacyjny"
+        ],
+        "correct_answer": "Wzorzec projektowy do wstrzykiwania zależności do klasy"
+    },
+    {
+        "id": 87,
+        "question": "Jaki jest domyślny port dla bazy danych MySQL?",
+        "answers": [
+            "5432",
+            "3306",
+            "1433",
+            "1521"
+        ],
+        "correct_answer": "3306"
+    },
+    {
+        "id": 88,
+        "question": "Co to jest 'event loop' w JavaScript?",
+        "answers": [
+            "Mechanizm umożliwiający asynchroniczne operacje w JavaScript",
+            "Pętla do iterowania przez elementy tablicy",
+            "Funkcja do obsługi zdarzeń DOM",
+            "Biblioteka do tworzenia animacji"
+        ],
+        "correct_answer": "Mechanizm umożliwiający asynchroniczne operacje w JavaScript"
+    },
+    {
+        "id": 89,
+        "question": "Która z poniższych technologii jest używana do tworzenia aplikacji hybrydowych?",
+        "answers": [
+            "React Native",
+            "Cordova",
+            "Flutter",
+            "Wszystkie powyższe"
+        ],
+        "correct_answer": "Wszystkie powyższe"
+    },
+    {
+        "id": 90,
+        "question": "Co to jest 'memcached'?",
+        "answers": [
+            "Baza danych NoSQL",
+            "System buforowania pamięci podręcznej",
+            "Framework do testowania aplikacji",
+            "Narzędzie do analizy danych"
+        ],
+        "correct_answer": "System buforowania pamięci podręcznej"
+    },
+    {
+        "id": 91,
+        "question": "Co to jest 'SaaS'?",
+        "answers": [
+            "System administracji serwerami",
+            "Software as a Service",
+            "Framework do tworzenia aplikacji webowych",
+            "Język programowania"
+        ],
+        "correct_answer": "Software as a Service"
+    },
+    {
+        "id": 92,
+        "question": "Który z poniższych języków jest kompilowany do bytecode i uruchamiany na JVM?",
+        "answers": [
+            "Java",
+            "Python",
+            "JavaScript",
+            "C++"
+        ],
+        "correct_answer": "Java"
+    },
+    {
+        "id": 93,
+        "question": "Co to jest 'NoSQL'?",
+        "answers": [
+            "Typ bazy danych",
+            "Framework frontendowy",
+            "Protokół komunikacyjny",
+            "Narzędzie do kontroli wersji"
+        ],
+        "correct_answer": "Typ bazy danych"
+    },
+    {
+        "id": 94,
+        "question": "Który z poniższych jest frameworkiem do tworzenia aplikacji webowych w Pythonie?",
+        "answers": [
+            "Flask",
+            "Spring",
+            "Laravel",
+            "Django"
+        ],
+        "correct_answer": "Django"
+    },
+    {
+        "id": 95,
+        "question": "Co oznacza skrót 'HTTP'?",
+        "answers": [
+            "Hypertext Transfer Protocol",
+            "Hyper Transfer Text Protocol",
+            "Hightext Transfer Protocol",
+            "Hyperlink Text Transfer Protocol"
+        ],
+        "correct_answer": "Hypertext Transfer Protocol"
+    },
+    {
+        "id": 96,
+        "question": "Która z poniższych jest metodą HTTP?",
+        "answers": [
+            "FETCH",
+            "POST",
+            "SEND",
+            "PULL"
+        ],
+        "correct_answer": "POST"
+    },
+    {
+        "id": 97,
+        "question": "Co to jest 'GraphQL'?",
+        "answers": [
+            "Biblioteka do tworzenia interfejsów użytkownika",
+            "Język zapytań do API",
+            "System kontroli wersji",
+            "Framework CSS"
+        ],
+        "correct_answer": "Język zapytań do API"
+    },
+    {
+        "id": 98,
+        "question": "Który z poniższych jest narzędziem do zarządzania pakietami w Ruby?",
+        "answers": [
+            "npm",
+            "pip",
+            "gem",
+            "composer"
+        ],
+        "correct_answer": "gem"
+    },
+    {
+        "id": 99,
+        "question": "Co to jest 'responsive design'?",
+        "answers": [
+            "Technika tworzenia aplikacji backendowych",
+            "Technika projektowania interfejsów użytkownika, które dostosowują się do różnych rozmiarów ekranów",
+            "Metoda optymalizacji baz danych",
+            "Framework do tworzenia aplikacji mobilnych"
+        ],
+        "correct_answer": "Technika projektowania interfejsów użytkownika, które dostosowują się do różnych rozmiarów ekranów"
+    },
+    {
+        "id": 100,
+        "question": "Co to jest 'callback hell'?",
+        "answers": [
+            "Stan, w którym funkcje zwrotne są zagnieżdżane w kilku poziomach, co prowadzi do trudności w czytaniu i zarządzaniu kodem",
+            "Technika obsługi błędów w JavaScript",
+            "Rodzaj ataku hakerskiego",
+            "Biblioteka do testowania aplikacji"
+        ],
+        "correct_answer": "Stan, w którym funkcje zwrotne są zagnieżdżane w kilku poziomach, co prowadzi do trudności w czytaniu i zarządzaniu kodem"
+    }
+]

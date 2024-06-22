@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oomzLHEDADSvXfuwoYIOieJHsEfD9XFmftfXXgK5r7buleWuP+UBE6UzHrQPCgqVPhF0U+QNO0ii1U3fc/4iqw==",
+  "success": true,
+  "projectFilePath": "/Users/sqsmacbook/Documents/studia/quizy/quizy/quizy.csproj",
+  "expectedPackageFiles": [
+    "/Users/sqsmacbook/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/sqsmacbook/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/sqsmacbook/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/sqsmacbook/.nuget/packages/npgsql/8.0.3/npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "question": "Co to jest protokół TCP?",
+    "answers": [
+      "Typ kabla do transmisji danych",
+      "Protokół transmisji kontrolnej",
+      "System operacyjny",
+      "Typ złącza sieciowego"
+    ],
+    "correct_answer": "Protokół transmisji kontrolnej"
+  },
+  {
+    "id": 2,
+    "question": "Który adres IP jest adresem prywatnym?",
+    "answers": [
+      "192.168.1.1",
+      "172.116.10.5",
+      "8.8.8.8",
+      "169.254.0.1"
+    ],
+    "correct_answer": "192.168.1.1"
+  },
+  {
+    "id": 3,
+    "question": "Jakie urządzenie łączy różne sieci LAN?",
+    "answers": [
+      "Repeater",
+      "Bridge",
+      "Router",
+      "Switch"
+    ],
+    "correct_answer": "Router"
+  },
+  {
+    "id": 4,
+    "question": "Co to jest DNS?",
+    "answers": [
+      "Protokół dynamicznej konfiguracji sieci",
+      "System nazw domen",
+      "Protokół dystrybucji danych",
+      "System dystrybucji dokumentów"
+    ],
+    "correct_answer": "System nazw domen"
+  },
+  {
+    "id": 5,
+    "question": "Co oznacza skrót LAN?",
+    "answers": [
+      "Large Area Network",
+      "Local Area Network",
+      "Light Area Network",
+      "Long Area Network"
+    ],
+    "correct_answer": "Local Area Network"
+  },
+  {
+    "id": 6,
+    "question": "Który standard IEEE odpowiada za bezprzewodowe sieci LAN?",
+    "answers": [
+      "IEEE 802.3",
+      "IEEE 802.11",
+      "IEEE 802.15",
+      "IEEE 802.5"
+    ],
+    "correct_answer": "IEEE 802.11"
+  },
+  {
+    "id": 7,
+    "question": "Co to jest maska podsieci?",
+    "answers": [
+      "Urządzenie służące do rozdzielenia ruchu w sieci",
+      "Numer identyfikujący urządzenie w sieci",
+      "Adres określający jak jest podzielona sieć na podsieci",
+      "Protokół używany do automatycznego przypisywania adresów IP"
+    ],
+    "correct_answer": "Adres określający jak jest podzielona sieć na podsieci"
+  },
+  {
+    "id": 8,
+    "question": "Co oznacza skrót NAT?",
+    "answers": [
+      "Network Address Translation",
+      "Network Allocation Table",
+      "Network Application Term",
+      "New Access Terminal"
+    ],
+    "correct_answer": "Network Address Translation"
+  },
+  {
+    "id": 9,
+    "question": "Który z poniższych jest standardowym portem dla HTTPS?",
+    "answers": [
+      "Port 80",
+      "Port 443",
+      "Port 25",
+      "Port 22"
+    ],
+    "correct_answer": "Port 443"
+  },
+  {
+    "id": 10,
+    "question": "Co to jest VLAN?",
+    "answers": [
+      "Virtual Local Area Network",
+      "Vast Local Area Network",
+      "Variable Local Area Network",
+      "Video Local Area Network"
+    ],
+    "correct_answer": "Virtual Local Area Network"
+  },
+  {
+    "id": 11,
+    "question": "Który protokół jest używany do automatycznego przydzielania adresów IP w sieci lokalnej?",
+    "answers": [
+      "HTTP",
+      "DNS",
+      "DHCP",
+      "FTP"
+    ],
+    "correct_answer": "DHCP"
+  },
+  {
+    "id": 12,
+    "question": "Jaki jest główny cel stosowania protokołu SSL/TLS?",
+    "answers": [
+      "Szyfrowanie transmisji danych",
+      "Komunikacja bezprzewodowa",
+      "Zarządzanie siecią",
+      "Dynamiczne przydzielanie adresów"
+    ],
+    "correct_answer": "Szyfrowanie transmisji danych"
+  },
+  {
+    "id": 13,
+    "question": "Co jest główną funkcją firewalla?",
+    "answers": [
+      "Zwiększenie prędkości transmisji danych",
+      "Ochrona sieci przed nieautoryzowanym dostępem",
+      "Zarządzanie przepustowością sieci",
+      "Zarządzanie drukarkami w sieci"
+    ],
+    "correct_answer": "Ochrona sieci przed nieautoryzowanym dostępem"
+  },
+  {
+    "id": 14,
+    "question": "Co to jest adres MAC?",
+    "answers": [
+      "Adres protokołu internetowego",
+      "Adres pamięci dostępu swobodnego",
+      "Unikatowy identyfikator sprzętowy urządzenia sieciowego",
+      "Model Access Control"
+    ],
+    "correct_answer": "Unikatowy identyfikator sprzętowy urządzenia sieciowego"
+  },
+  {
+    "id": 15,
+    "question": "Który z poniższych jest przykładem sieci WAN?",
+    "answers": [
+      "Sieć w biurze",
+      "Sieć domowa",
+      "Internet",
+      "Bluetooth"
+    ],
+    "correct_answer": "Internet"
+  },
+  {
+    "id": 16,
+    "question": "Co oznacza skrót ICMP w kontekście sieciowym?",
+    "answers": [
+      "Internet Control Message Protocol",
+      "Internal Communication Management Protocol",
+      "Internet Configuration Management Protocol",
+      "Integrated Communication Mapping Protocol"
+    ],
+    "correct_answer": "Internet Control Message Protocol"
+  },
+  {
+    "id": 17,
+    "question": "Który z poniższych jest urządzeniem służącym do wzmacniania sygnału w sieci?",
+    "answers": [
+      "Switch",
+      "Router",
+      "Repeater",
+      "Bridge"
+    ],
+    "correct_answer": "Repeater"
+  },
+  {
+    "id": 18,
+    "question": "Który z poniższych protokołów jest stosowany do zdalnej administracji maszynami Unixowymi?",
+    "answers": [
+      "RDP",
+      "SSH",
+      "Telnet",
+      "FTP"
+    ],
+    "correct_answer": "SSH"
+  },
+  {
+    "id": 19,
+    "question": "Co to jest SNMP?",
+    "answers": [
+      "Simple Network Management Protocol",
+      "Secure Network Management Protocol",
+      "System Network Management Protocol",
+      "Server Network Management Protocol"
+    ],
+    "correct_answer": "Simple Network Management Protocol"
+  },
+  {
+    "id": 20,
+    "question": "Która topologia sieciowa łączy wszystkie komputery wzdłuż pojedynczego ścieżki?",
+    "answers": [
+      "Topologia gwiazdy",
+      "Topologia pierścienia",
+      "Topologia magistrali",
+      "Topologia siatki"
+    ],
+    "correct_answer": "Topologia magistrali"
+  },
+  {
+    "id": 21,
+    "question": "Która warstwa modelu OSI odpowiada za routing pakietów?",
+    "answers": [
+      "Warstwa transportowa",
+      "Warstwa sieciowa",
+      "Warstwa prezentacji",
+      "Warstwa sesji"
+    ],
+    "correct_answer": "Warstwa sieciowa"
+  },
+  {
+    "id": 22,
+    "question": "Jaki jest główny cel protokołu BGP?",
+    "answers": [
+      "Zarządzanie bazami danych",
+      "Szyfrowanie danych",
+      "Routing międzyautonomiczny",
+      "Transmisja strumieniowa"
+    ],
+    "correct_answer": "Routing międzyautonomiczny"
+  },
+  {
+    "id": 23,
+    "question": "Który z poniższych adresów IPv4 jest adresem multicastowym?",
+    "answers": [
+      "192.168.1.1",
+      "255.255.255.0",
+      "224.0.0.1",
+      "127.0.0.1"
+    ],
+    "correct_answer": "224.0.0.1"
+  },
+  {
+    "id": 24,
+    "question": "Co to jest QoS?",
+    "answers": [
+      "Quality of Service",
+      "Quantity of Service",
+      "Query of Service",
+      "Quick Online Service"
+    ],
+    "correct_answer": "Quality of Service"
+  },
+  {
+    "id": 25,
+    "question": "Który protokół używa portu 53?",
+    "answers": [
+      "HTTP",
+      "FTP",
+      "DNS",
+      "SMTP"
+    ],
+    "correct_answer": "DNS"
+  },
+  {
+    "id": 26,
+    "question": "Co to jest PoE?",
+    "answers": [
+      "Point of Entry",
+      "Power over Ethernet",
+      "Protocol over Ethernet",
+      "Performance over Expectation"
+    ],
+    "correct_answer": "Power over Ethernet"
+  },
+  {
+    "id": 27,
+    "question": "Jaką funkcję pełni protokół ARP?",
+    "answers": [
+      "Przekształca adresy IP na adresy MAC",
+      "Szyfruje dane przesyłane przez sieć",
+      "Zarządza trasowaniem pakietów",
+      "Monitoruje wydajność sieci"
+    ],
+    "correct_answer": "Przekształca adresy IP na adresy MAC"
+  },
+  {
+    "id": 28,
+    "question": "Która warstwa modelu OSI odpowiada za zapewnienie niezawodnego połączenia?",
+    "answers": [
+      "Warstwa aplikacji",
+      "Warstwa transportowa",
+      "Warstwa fizyczna",
+      "Warstwa prezentacji"
+    ],
+    "correct_answer": "Warstwa transportowa"
+  },
+  {
+    "id": 29,
+    "question": "Co oznacza termin 'packet sniffing'?",
+    "answers": [
+      "Aktywne blokowanie ruchu sieciowego",
+      "Monitorowanie i analiza ruchu sieciowego",
+      "Niszczenie danych przesyłanych w sieci",
+      "Zwiększanie prędkości przesyłu danych"
+    ],
+    "correct_answer": "Monitorowanie i analiza ruchu sieciowego"
+  },
+  {
+    "id": 30,
+    "question": "Który z poniższych jest przykładem prywatnego adresu IP w klasie B?",
+    "answers": [
+      "172.16.0.1",
+      "192.168.1.1",
+      "10.0.0.1",
+      "169.254.0.1"
+    ],
+    "correct_answer": "172.16.0.1"
+  },
+  {
+    "id": 31,
+    "question": "Która warstwa modelu OSI jest odpowiedzialna za przesyłanie surowych bitów przez medium fizyczne?",
+    "answers": [
+      "Warstwa aplikacji",
+      "Warstwa transportowa",
+      "Warstwa sieciowa",
+      "Warstwa fizyczna"
+    ],
+    "correct_answer": "Warstwa fizyczna"
+  },
+  {
+    "id": 32,
+    "question": "Który z poniższych protokołów NIE jest protokołem routingu?",
+    "answers": [
+      "OSPF",
+      "BGP",
+      "ICMP",
+      "RIP"
+    ],
+    "correct_answer": "ICMP"
+  },
+  {
+    "id": 33,
+    "question": "Jak nazywa się urządzenie, które umożliwia połączenie wielu urządzeń w jednej sieci lokalnej?",
+    "answers": [
+      "Modem",
+      "Repeater",
+      "Switch",
+      "Firewall"
+    ],
+    "correct_answer": "Switch"
+  },
+  {
+    "id": 34,
+    "question": "Co to jest VPN?",
+    "answers": [
+      "Virtual Private Network",
+      "Vast Protocol Net",
+      "Variable Path Network",
+      "Visual Private Network"
+    ],
+    "correct_answer": "Virtual Private Network"
+  },
+  {
+    "id": 35,
+    "question": "Który z poniższych protokołów zapewnia szyfrowanie na warstwie transportowej?",
+    "answers": [
+      "HTTP",
+      "HTTPS",
+      "FTP",
+      "SMTP"
+    ],
+    "correct_answer": "HTTPS"
+  },
+  {
+    "id": 36,
+    "question": "Co to jest protokół L2TP?",
+    "answers": [
+      "Layer 2 Tunneling Protocol",
+      "Layer 2 Transfer Protocol",
+      "Level 2 Tethering Protocol",
+      "Layer 2 Tracking Protocol"
+    ],
+    "correct_answer": "Layer 2 Tunneling Protocol"
+  },
+  {
+    "id": 37,
+    "question": "Które z poniższych jest typem ataku na sieć?",
+    "answers": [
+      "Phishing",
+      "Farming",
+      "Spoofing",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above"
+  },
+  {
+    "id": 38,
+    "question": "Który z poniższych NIE jest typem kabla używanym do budowy sieci LAN?",
+    "answers": [
+      "Coaxial",
+      "Fiber optic",
+      "HDMI",
+      "Twisted pair"
+    ],
+    "correct_answer": "HDMI"
+  },
+  {
+    "id": 39,
+    "question": "Który z poniższych adresów IP jest adresem publicznym?",
+    "answers": [
+      "192.168.1.1",
+      "10.0.0.1",
+      "131.107.0.89",
+      "172.16.0.1"
+    ],
+    "correct_answer": "131.107.0.89"
+  },
+  {
+    "id": 40,
+    "question": "Jaka jest funkcja protokołu ARPANET?",
+    "answers": [
+      "Zarządzanie zasobami sieciowymi",
+      "Początkowa forma internetu",
+      "Protokół do zarządzania trasami w sieci",
+      "Zarządzanie adresacją w sieci"
+    ],
+    "correct_answer": "Początkowa forma internetu"
+  },
+  {
+    "id": 41,
+    "question": "Co to jest 'ping' w kontekście sieciowym?",
+    "answers": [
+      "Narzędzie do szyfrowania danych",
+      "Narzędzie do monitorowania dostępności urządzenia w sieci",
+      "Protokół do szybkiego przesyłania danych",
+      "Urządzenie do zwiększania zasięgu sieci"
+    ],
+    "correct_answer": "Narzędzie do monitorowania dostępności urządzenia w sieci"
+  },
+  {
+    "id": 42,
+    "question": "Co oznacza termin 'subnetting'?",
+    "answers": [
+      "Podział sieci na mniejsze, niezależne sieci",
+      "Łączenie dwóch różnych sieci w jedną",
+      "Konfiguracja zabezpieczeń sieciowych",
+      "Instalacja oprogramowania sieciowego"
+    ],
+    "correct_answer": "Podział sieci na mniejsze, niezależne sieci"
+  },
+  {
+    "id": 43,
+    "question": "Jaki protokół służy do wysyłania wiadomości e-mail?",
+    "answers": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "SNMP"
+    ],
+    "correct_answer": "SMTP"
+  },
+  {
+    "id": 44,
+    "question": "Co to jest 'token ring'?",
+    "answers": [
+      "Protokół zarządzania danymi",
+      "Topologia sieci, w której komputery są połączone w pierścień",
+      "Urządzenie używane do wzmacniania sygnału sieci",
+      "Algorytm szyfrowania danych"
+    ],
+    "correct_answer": "Topologia sieci, w której komputery są połączone w pierścień"
+  },
+  {
+    "id": 45,
+    "question": "Jaka jest funkcja NAT?",
+    "answers": [
+      "Translacja adresów sieciowych",
+      "Monitorowanie ruchu sieciowego",
+      "Blokowanie niechcianych połączeń",
+      "Zwiększanie prędkości połączenia internetowego"
+    ],
+    "correct_answer": "Translacja adresów sieciowych"
+  },
+  {
+    "id": 46,
+    "question": "Który adres IP jest używany do testowania lokalnej konfiguracji sieci?",
+    "answers": [
+      "192.168.1.1",
+      "127.0.0.1",
+      "255.255.255.0",
+      "10.0.0.1"
+    ],
+    "correct_answer": "127.0.0.1"
+  },
+  {
+    "id": 47,
+    "question": "Jaki jest główny cel protokołu VoIP?",
+    "answers": [
+      "Przesyłanie głosu przez sieci IP",
+      "Wirtualizacja operacji sieciowych",
+      "Zarządzanie przepustowością sieciową",
+      "Optymalizacja protokołów internetowych"
+    ],
+    "correct_answer": "Przesyłanie głosu przez sieci IP"
+  },
+  {
+    "id": 48,
+    "question": "Która z poniższych opcji jest prawdziwym stwierdzeniem o IPv6?",
+    "answers": [
+      "Używa 32-bitowych adresów",
+      "Zawiera mniej możliwych adresów niż IPv4",
+      "Umożliwia większą ilość unikalnych adresów niż IPv4",
+      "Jest mniej bezpieczny niż IPv4"
+    ],
+    "correct_answer": "Umożliwia większą ilość unikalnych adresów niż IPv4"
+  },
+  {
+    "id": 49,
+    "question": "Co to jest RARP?",
+    "answers": [
+      "Remote Access Repair Protocol",
+      "Reverse Address Resolution Protocol",
+      "Rapid Access Response Protocol",
+      "Real-time Address Routing Protocol"
+    ],
+    "correct_answer": "Reverse Address Resolution Protocol"
+  },
+  {
+    "id": 50,
+    "question": "Która z poniższych technologii NIE jest przykładem technologii WAN?",
+    "answers": [
+      "Ethernet",
+      "MPLS",
+      "LTE",
+      "Frame Relay"
+    ],
+    "correct_answer": "Ethernet"
+  },
+  {
+    "id": 51,
+    "question": "Co to jest GPU?",
+    "answers": [
+      "Global Processing Unit",
+      "Graphics Processing Unit",
+      "General Processing Unit",
+      "Gaming Performance Unit"
+    ],
+    "correct_answer": "Graphics Processing Unit"
+  },
+  {
+    "id": 52,
+    "question": "Która z poniższych części komputera jest odpowiedzialna za przetwarzanie danych?",
+    "answers": [
+      "Płyta główna",
+      "Dysk twardy",
+      "Procesor",
+      "Karta graficzna"
+    ],
+    "correct_answer": "Procesor"
+  },
+  {
+    "id": 53,
+    "question": "Jakie urządzenie jest używane do przechowywania danych na stałe w komputerze?",
+    "answers": [
+      "RAM",
+      "CPU",
+      "SSD",
+      "GPU"
+    ],
+    "correct_answer": "SSD"
+  },
+  {
+    "id": 54,
+    "question": "Co to jest BIOS?",
+    "answers": [
+      "Basic Input/Output System",
+      "Binary Integrated Operating System",
+      "Basic Integrated Output System",
+      "Binary Input/Output System"
+    ],
+    "correct_answer": "Basic Input/Output System"
+  },
+  {
+    "id": 55,
+    "question": "Która z poniższych opcji jest przykładem pamięci nieulotnej?",
+    "answers": [
+      "RAM",
+      "Cache",
+      "ROM",
+      "Registers"
+    ],
+    "correct_answer": "ROM"
+  },
+  {
+    "id": 56,
+    "question": "Jak nazywa się typ pamięci komputerowej, który jest tymczasowy i ulotny?",
+    "answers": [
+      "ROM",
+      "RAM",
+      "SSD",
+      "HDD"
+    ],
+    "correct_answer": "RAM"
+  },
+  {
+    "id": 57,
+    "question": "Co oznacza termin 'overclocking' w kontekście komponentów komputerowych?",
+    "answers": [
+      "Zmniejszenie wydajności komponentu",
+      "Zwiększenie taktowania procesora powyżej fabrycznych ustawień",
+      "Zwiększenie pojemności dysku twardego",
+      "Zmniejszenie zużycia energii komponentu"
+    ],
+    "correct_answer": "Zwiększenie taktowania procesora powyżej fabrycznych ustawień"
+  },
+  {
+    "id": 58,
+    "question": "Co to jest 'heat sink'?",
+    "answers": [
+      "Rodzaj oprogramowania komputerowego",
+      "Urządzenie do przechowywania ciepła",
+      "Komponent do chłodzenia innego komponentu",
+      "Typ pamięci komputerowej"
+    ],
+    "correct_answer": "Komponent do chłodzenia innego komponentu"
+  },
+  {
+    "id": 59,
+    "question": "Które z poniższych urządzeń jest przykładem urządzenia peryferyjnego?",
+    "answers": [
+      "Procesor",
+      "Płyta główna",
+      "Klawiatura",
+      "SSD"
+    ],
+    "correct_answer": "Klawiatura"
+  },
+  {
+    "id": 60,
+    "question": "Co to jest 'motherboard'?",
+    "answers": [
+      "Główny obwód drukowany w komputerze, który łączy wszystkie komponenty",
+      "Zewnętrzne urządzenie do przechowywania danych",
+      "Urządzenie używane do chłodzenia procesora",
+      "Program do zarządzania pamięcią komputerową"
+    ],
+    "correct_answer": "Główny obwód drukowany w komputerze, który łączy wszystkie komponenty"
+  },
+  {
+    "id": 61,
+    "question": "Które z poniższych urządzeń służy do wyświetlania obrazu?",
+    "answers": [
+      "Monitor",
+      "Procesor",
+      "Dysk SSD",
+      "Pamięć RAM"
+    ],
+    "correct_answer": "Monitor"
+  },
+  {
+    "id": 62,
+    "question": "Jaki rodzaj złącza jest używany do podłączenia myszy i klawiatury w nowoczesnych komputerach?",
+    "answers": [
+      "Serial",
+      "PS/2",
+      "USB",
+      "Parallel"
+    ],
+    "correct_answer": "USB"
+  },
+  {
+    "id": 63,
+    "question": "Jak nazywa się procesor zaprojektowany specjalnie do obliczeń związanych z grafiką komputerową?",
+    "answers": [
+      "Central Processing Unit",
+      "Graphics Processing Unit",
+      "Digital Processing Unit",
+      "Video Processing Unit"
+    ],
+    "correct_answer": "Graphics Processing Unit"
+  },
+  {
+    "id": 64,
+    "question": "Co to jest RAID w kontekście przechowywania danych?",
+    "answers": [
+      "Random Access Integrated Drive",
+      "Redundant Array of Independent Disks",
+      "Rapid Access and Index Disk",
+      "Redundant Allocation of Internet Data"
+    ],
+    "correct_answer": "Redundant Array of Independent Disks"
+  },
+  {
+    "id": 65,
+    "question": "Co to jest Thunderbolt?",
+    "answers": [
+      "Marka procesorów",
+      "Interfejs do szybkiego przesyłu danych i połączenia sprzętowego",
+      "Typ obudowy komputerowej",
+      "Oprogramowanie do zarządzania bazami danych"
+    ],
+    "correct_answer": "Interfejs do szybkiego przesyłu danych i połączenia sprzętowego"
+  },
+  {
+    "id": 66,
+    "question": "Które z poniższych jest celem chłodzenia cieczą w komputerze?",
+    "answers": [
+      "Zwiększenie prędkości internetu",
+      "Poprawa jakości dźwięku",
+      "Zmniejszenie zużycia energii",
+      "Obniżenie temperatury komponentów"
+    ],
+    "correct_answer": "Obniżenie temperatury komponentów"
+  },
+  {
+    "id": 67,
+    "question": "Która z poniższych technologii jest używana do budowy ekranów dotykowych?",
+    "answers": [
+      "CRT",
+      "LED",
+      "OLED",
+      "Plasma"
+    ],
+    "correct_answer": "OLED"
+  },
+  {
+    "id": 68,
+    "question": "Jakie urządzenie jest odpowiedzialne za dostarczanie energii do wszystkich komponentów wewnątrz obudowy komputera?",
+    "answers": [
+      "Transformator",
+      "Zasilacz",
+      "Inwerter",
+      "Generator"
+    ],
+    "correct_answer": "Zasilacz"
+  },
+  {
+    "id": 69,
+    "question": "Co to jest 'cache' w kontekście procesora?",
+    "answers": [
+      "Dodatkowa przestrzeń na dysku twardym",
+      "Pamięć RAM używana do przechowywania danych tymczasowych",
+      "Szybka pamięć używana do przechowywania często używanych danych przez procesor",
+      "Oprogramowanie do oczyszczania systemu"
+    ],
+    "correct_answer": "Szybka pamięć używana do przechowywania często używanych danych przez procesor"
+  },
+  {
+    "id": 70,
+    "question": "Jaki typ pamięci jest używany do trwałego przechowywania danych, które muszą być szybko dostępne, takich jak system operacyjny?",
+    "answers": [
+      "RAM",
+      "ROM",
+      "SSD",
+      "CD-ROM"
+    ],
+    "correct_answer": "SSD"
+  },
+  {
+    "id": 71,
+    "question": "Co to jest form factor w kontekście płyty głównej?",
+    "answers": [
+      "Wielkość i kształt procesora",
+      "Typ złącza na płycie głównej",
+      "Standard wymiarów i układu komponentów płyty głównej",
+      "Rodzaj zasilacza kompatybilnego z płytą"
+    ],
+    "correct_answer": "Standard wymiarów i układu komponentów płyty głównej"
+  },
+  {
+    "id": 72,
+    "question": "Co oznacza termin 'dual channel' w kontekście pamięci RAM?",
+    "answers": [
+      "Dwa różne rodzaje pamięci RAM w jednym komputerze",
+      "Konfiguracja pamięci RAM umożliwiająca szybszy przesył danych",
+      "System operacyjny zdolny do zarządzania dwiema pamięciami RAM",
+      "Pamięć RAM z podwójnym zabezpieczeniem danych"
+    ],
+    "correct_answer": "Konfiguracja pamięci RAM umożliwiająca szybszy przesył danych"
+  },
+  {
+    "id": 73,
+    "question": "Co to jest PCIe?",
+    "answers": [
+      "Peripheral Component Interconnect Express",
+      "Personal Computer Internet Exchange",
+      "Peripheral Component Interchange Event",
+      "Personal Computing Interface Express"
+    ],
+    "correct_answer": "Peripheral Component Interconnect Express"
+  },
+  {
+    "id": 74,
+    "question": "Jaka jest główna rola procesora (CPU) w komputerze?",
+    "answers": [
+      "Przechowywanie danych",
+      "Renderowanie grafiki",
+      "Wykonywanie instrukcji programów",
+      "Zarządzanie połączeniami sieciowymi"
+    ],
+    "correct_answer": "Wykonywanie instrukcji programów"
+  },
+  {
+    "id": 75,
+    "question": "Co to jest DIMM w kontekście sprzętu komputerowego?",
+    "answers": [
+      "Digital Interface for Multi Media",
+      "Dual Inline Memory Module",
+      "Disk Integrated Max Memory",
+      "Display Interface Module for Monitors"
+    ],
+    "correct_answer": "Dual Inline Memory Module"
+  },
+  {
+    "id": 76,
+    "question": "Jakie urządzenie komputerowe jest odpowiedzialne za przetwarzanie grafiki 3D?",
+    "answers": [
+      "Hard drive",
+      "Graphics card",
+      "Sound card",
+      "Network adapter"
+    ],
+    "correct_answer": "Graphics card"
+  },
+  {
+    "id": 77,
+    "question": "Co to jest heatsink?",
+    "answers": [
+      "Urządzenie do pomiaru temperatury w komputerze",
+      "Element montowany na CPU do odprowadzania ciepła",
+      "Typ obudowy zintegrowanej z wentylatorami",
+      "Oprogramowanie do monitorowania wydajności komputera"
+    ],
+    "correct_answer": "Element montowany na CPU do odprowadzania ciepła"
+  },
+  {
+    "id": 78,
+    "question": "Co to jest VRAM?",
+    "answers": [
+      "Variable Random Access Memory",
+      "Video Random Access Memory",
+      "Very Rapid Access Memory",
+      "Virtual Random Access Memory"
+    ],
+    "correct_answer": "Video Random Access Memory"
+  },
+  {
+    "id": 79,
+    "question": "Jakie urządzenie służy jako główny magazyn danych w większości nowoczesnych komputerów?",
+    "answers": [
+      "Solid State Drive",
+      "Optical Drive",
+      "Magnetic Tape",
+      "Floppy Disk"
+    ],
+    "correct_answer": "Solid State Drive"
+  },
+  {
+    "id": 80,
+    "question": "Które z poniższych jest cechą technologii NVMe w kontekście SSD?",
+    "answers": [
+      "Zmniejsza zużycie energii",
+      "Zwiększa prędkość transmisji danych",
+      "Obniża koszt jednostkowy magazynowania",
+      "Rozszerza maksymalną pojemność pamięci"
+    ],
+    "correct_answer": "Zwiększa prędkość transmisji danych"
+  },
+  {
+    "id": 81,
+    "question": "Jakie urządzenie komputerowe przetwarza dane zapisane na dyskach optycznych?",
+    "answers": [
+      "Hard drive",
+      "Optical drive",
+      "Solid state drive",
+      "Tape drive"
+    ],
+    "correct_answer": "Optical drive"
+  },
+  {
+    "id": 82,
+    "question": "Co to jest ATX w kontekście budowy komputerów?",
+    "answers": [
+      "Advanced Technology Extended",
+      "Advanced Transfer Express",
+      "Audio Transfer Expert",
+      "Accelerated Tech Exchange"
+    ],
+    "correct_answer": "Advanced Technology Extended"
+  },
+  {
+    "id": 83,
+    "question": "Który typ RAM jest najbardziej powszechnie stosowany w nowoczesnych komputerach?",
+    "answers": [
+      "DDR4",
+      "SDRAM",
+      "DRAM",
+      "SRAM"
+    ],
+    "correct_answer": "DDR4"
+  },
+  {
+    "id": 84,
+    "question": "Co to jest firmware?",
+    "answers": [
+      "Zintegrowane oprogramowanie na urządzeniach peryferyjnych",
+      "Oprogramowanie użytkowe instalowane na komputerze",
+      "Programy antywirusowe używane do ochrony danych",
+      "Oprogramowanie systemowe uruchamiane podczas startu komputera"
+    ],
+    "correct_answer": "Zintegrowane oprogramowanie na urządzeniach peryferyjnych"
+  },
+  {
+    "id": 85,
+    "question": "Która z poniższych technologii magazynowania jest znana z najwyższej prędkości zapisu i odczytu?",
+    "answers": [
+      "HDD",
+      "SSD",
+      "Tape drive",
+      "Optical drive"
+    ],
+    "correct_answer": "SSD"
+  },
+  {
+    "id": 86,
+    "question": "Które z poniższych urządzeń jest przykładem urządzenia wejścia?",
+    "answers": [
+      "Monitor",
+      "Drukarka",
+      "Klawiatura",
+      "Głośnik"
+    ],
+    "correct_answer": "Klawiatura"
+  },
+  {
+    "id": 87,
+    "question": "Jaką funkcję pełni układ chłodzenia w komputerze?",
+    "answers": [
+      "Chroni komputer przed wirusami",
+      "Zwiększa prędkość przetwarzania danych",
+      "Zapobiega przegrzewaniu się komponentów",
+      "Zwiększa pojemność przechowywania danych"
+    ],
+    "correct_answer": "Zapobiega przegrzewaniu się komponentów"
+  },
+  {
+    "id": 88,
+    "question": "Co to jest 'benchmarking' w kontekście sprzętu komputerowego?",
+    "answers": [
+      "Proces tworzenia kopii zapasowych danych",
+      "Testowanie wydajności komponentów komputerowych",
+      "Konfiguracja sieci komputerowych",
+      "Instalacja oprogramowania systemowego"
+    ],
+    "correct_answer": "Testowanie wydajności komponentów komputerowych"
+  },
+  {
+    "id": 89,
+    "question": "Co oznacza skrót 'UPS' w kontekście sprzętu komputerowego?",
+    "answers": [
+      "Uniform Processing System",
+      "Universal Power Supply",
+      "Uninterruptible Power Supply",
+      "Unified Performance System"
+    ],
+    "correct_answer": "Uninterruptible Power Supply"
+  },
+  {
+    "id": 90,
+    "question": "Jaka jest funkcja karty sieciowej w komputerze?",
+    "answers": [
+      "Przechowywanie danych",
+      "Przetwarzanie grafiki",
+      "Zarządzanie drukowaniem",
+      "Łączenie komputera z siecią"
+    ],
+    "correct_answer": "Łączenie komputera z siecią"
+  },
+  {
+    "id": 91,
+    "question": "Co to jest 'crossfire' w kontekście komputerów?",
+    "answers": [
+      "Technika przyspieszania procesora",
+      "Metoda chłodzenia komponentów",
+      "Technologia łączenia wielu kart graficznych",
+      "Oprogramowanie do zarządzania wieloma monitorami"
+    ],
+    "correct_answer": "Technologia łączenia wielu kart graficznych"
+  },
+  {
+    "id": 92,
+    "question": "Jakie jest zastosowanie portu DVI w komputerze?",
+    "answers": [
+      "Przesyłanie danych",
+      "Połączenie z Internetem",
+      "Transmisja sygnału wideo",
+      "Ładowanie urządzeń"
+    ],
+    "correct_answer": "Transmisja sygnału wideo"
+  },
+  {
+    "id": 93,
+    "question": "Które z poniższych urządzeń jest przykładem dysku HDD?",
+    "answers": [
+      "Dysk z pamięcią flash",
+      "Dysk twardy z talerzami magnetycznymi",
+      "Pamięć SSD",
+      "Napęd optyczny"
+    ],
+    "correct_answer": "Dysk twardy z talerzami magnetycznymi"
+  },
+  {
+    "id": 94,
+    "question": "Który z tych komponentów jest urządzeniem wyjściowym?",
+    "answers": [
+      "Myszka",
+      "Klawiatura",
+      "Monitor",
+      "Pamięć USB"
+    ],
+    "correct_answer": "Monitor"
+  },
+  {
+    "id": 95,
+    "question": "Jaka jest główna funkcja mostka północnego na płycie głównej?",
+    "answers": [
+      "Połączenie z urządzeniami peryferyjnymi",
+      "Komunikacja z procesorem, pamięcią RAM i kartą graficzną",
+      "Zarządzanie portami USB",
+      "Łączenie z dyskami twardymi"
+    ],
+    "correct_answer": "Komunikacja z procesorem, pamięcią RAM i kartą graficzną"
+  },
+  {
+    "id": 96,
+    "question": "Co to jest slot M.2 na płycie głównej?",
+    "answers": [
+      "Port do podłączania myszy",
+      "Gniazdo dla pamięci RAM",
+      "Interfejs dla dysków SSD",
+      "Złącze dla kart rozszerzeń"
+    ],
+    "correct_answer": "Interfejs dla dysków SSD"
+  },
+  {
+    "id": 97,
+    "question": "Do czego służy zasilacz w komputerze?",
+    "answers": [
+      "Do przetwarzania danych",
+      "Do chłodzenia komponentów",
+      "Do zasilania komponentów komputera",
+      "Do przechowywania danych"
+    ],
+    "correct_answer": "Do zasilania komponentów komputera"
+  },
+  {
+    "id": 98,
+    "question": "Jaka jest rola karty dźwiękowej w komputerze?",
+    "answers": [
+      "Przetwarzanie i odtwarzanie dźwięku",
+      "Zarządzanie pamięcią komputera",
+      "Rozszerzenie możliwości graficznych",
+      "Zwiększenie prędkości procesora"
+    ],
+    "correct_answer": "Przetwarzanie i odtwarzanie dźwięku"
+  },
+  {
+    "id": 99,
+    "question": "Co to jest gniazdo CPU na płycie głównej?",
+    "answers": [
+      "Miejsce, gdzie montuje się procesor",
+      "Port do podłączania urządzeń USB",
+      "Slot na kartę graficzną",
+      "Gniazdo dla zasilacza"
+    ],
+    "correct_answer": "Miejsce, gdzie montuje się procesor"
+  },
+  {
+    "id": 100,
+    "question": "Co to jest taktowanie pamięci RAM?",
+    "answers": [
+      "Maksymalna ilość danych przechowywanych na RAM",
+      "Szybkość, z jaką RAM odbiera i wysyła dane",
+      "Napięcie zasilające pamięć RAM",
+      "Czas życia pamięci RAM"
+    ],
+    "correct_answer": "Szybkość, z jaką RAM odbiera i wysyła dane"
+  }
+]
