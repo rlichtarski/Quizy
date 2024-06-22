@@ -94,5 +94,28 @@ namespace quizy
                 cmd.ExecuteNonQuery();
             }
         }
+        public static List<string> GetQuizHistory(int userId)
+        {
+            List<string> history = new List<string>();
+            using (var conn = new NpgsqlConnection(connectionString))
+            {
+                conn.Open();
+                var cmd = new NpgsqlCommand("SELECT correct_answers, wrong_answers, quiz_date FROM quiz_results WHERE user_id = @UserId ORDER BY quiz_date DESC", conn);
+                cmd.Parameters.AddWithValue("UserId", userId);
+
+                using (var reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        int correctAnswers = reader.GetInt32(0);
+                        int wrongAnswers = reader.GetInt32(1);
+                        DateTime quizDate = reader.GetDateTime(2);
+                        string formattedDate = quizDate.ToString("dd.MM.yyyy HH:mm");
+                        history.Add($"Data: {formattedDate}, Poprawne odpowiedzi: {correctAnswers}, Złe odpowiedzi: {wrongAnswers}");
+                    }
+                }
+            }
+            return history;
+        }
     }
 }

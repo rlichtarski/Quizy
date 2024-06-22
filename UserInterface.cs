@@ -9,6 +9,7 @@ namespace quizy
             while (true)
             {
                 Console.WriteLine("1. Rejestracja\n2. Logowanie\n3. Rozpocznij quiz\n4. Historia quizów\n5. Wyjdź");
+                Console.Write("Twój wybór: ");
                 var choice = Console.ReadLine();
                 switch (choice)
                 {
@@ -94,9 +95,27 @@ namespace quizy
             QuizManager.RunQuiz(questions, loggedInUserId);
         }
 
-        private static void DisplayHistory()
+        public static void DisplayHistory()
+    {
+        if (loggedInUserId > -1)
         {
-            Console.WriteLine("Historie quizów będą dostępne wkrótce");
+            var history = DatabaseManager.GetQuizHistory(loggedInUserId);
+            if (history == null || history.Count == 0) {
+                Console.WriteLine("Nie masz zadnych zapisanych quizów.");
+            } 
+            else 
+            {
+                Console.WriteLine("Historia quizów:");
+                foreach (var record in history)
+                {
+                    Console.WriteLine(record);
+                }
+            }
         }
+        else
+        {
+            Console.WriteLine("Musisz się zalogować.");
+        }
+    }
     }
 }
